@@ -7,7 +7,7 @@ Server:
 node server.js
 
 Client:
-node client.js <id>
+node client.js employeeId
   Example: node client.js 2
 
 ##
